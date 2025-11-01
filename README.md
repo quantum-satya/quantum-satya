@@ -1,13 +1,60 @@
-# Hi, I'm Satya 👋  
-**Quantum software learner · Qiskit & Python · Aspiring Quantum Intern**
+# 👋 Hi, I’m Satya Pal
+**Aspiring Quantum Software Developer | Qiskit | Python | Quantum Algorithms**
 
-- 🔭 Working on: Qiskit tutorials, Deutsch & Grover notebooks  
-- 👨‍🏫 Teaching: short explainer videos on my YouTube channel *Quantum-Satya*  
-- 🛠️ Skills: Python, Qiskit, Linear Algebra, Git  
-- 📫 Contact: satya.pal@falcon9.in — Based in Delhi, India  
+---
 
-## Featured Repositories
-- 🔗 [quantum-algorithms](https://github.com/quantum-satya/quantum-algorithms) — toy implementations of Deutsch & Grover algorithms  
-- 🔗 [qiskit-101](https://github.com/quantum-satya/qiskit-101) — step-by-step Qiskit exercises  
+## 🎯 About Me
+I am passionate about **quantum computing and quantum algorithms**,  
+and I document my journey step-by-step to teach and contribute to the global quantum community.  
+Currently focusing on **Qiskit-based quantum software development**.
 
-> 💡 I am seeking internships in quantum software and open to remote or Delhi-based opportunities.
+- 🖥️ 12+ years experience in IT, Unix, C/C++, Java, Cloud  
+- ⚡ Learning and implementing **Deutsch, Deutsch–Jozsa, Grover, Simon, Shor**  
+- 📚 Sharing knowledge via GitHub notebooks, tutorials, and YouTube videos  
+
+---
+
+## 🛠️ Skills
+- **Quantum Computing:** Qiskit, IBM Quantum Experience  
+- **Programming:** Python, C, C++  
+- **Mathematics:** Linear Algebra, Probability, Quantum Mechanics basics  
+- **Tools:** Jupyter Notebook, Git, GitHub  
+
+---
+
+## 📂 Featured Repositories
+| Repository | Description |
+|------------|-------------|
+| [quantum-algorithms](https://github.com/quantum-satya/quantum-algorithms) | Step-by-step implementations of Deutsch, Deutsch–Jozsa, Grover, and Simon algorithms |
+| [qiskit-101](https://github.com/quantum-satya/qiskit-101) | Beginner-friendly Qiskit tutorials and exercises |
+| [linear-algebra-notebooks](https://github.com/quantum-satya/linear-algebra-notebooks) | Linear algebra practice notebooks (Gilbert Strang approach) |
+
+> More repos coming soon: Shor, Grover advanced, Quantum AI demos
+
+---
+
+## 🚀 Current Focus
+- Implementing **quantum algorithms** in Qiskit  
+- Preparing **portfolio for quantum software roles**  
+- Building a **series of tutorials** for learners in India  
+
+---
+
+## 📫 Connect with Me
+- 🌐 GitHub: [https://github.com/quantum-satya](https://github.com/quantum-satya)  
+- 💼 LinkedIn: [linkedin.com/in/quantumsatya](https://www.linkedin.com/in/quantumsatya)  
+- ▶️ YouTube: [@quantumsatya](https://www.youtube.com/@quantumsatya)  
+- 📧 Email: satya.pal@falcon9.in  
+
+---
+
+## 🌟 Quote
+> “Quantum computing is not just coding; it’s a new way of thinking about computation.”  
+> — Satya Pal
+
+---
+
+## 🏷️ Badges (Optional)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
+![Qiskit](https://img.shields.io/badge/Qiskit-0.44.0-orange?logo=qiskit)  
+![MIT License](https://img.shields.io/badge/License-MIT-green)

@@ -28,6 +28,9 @@ Currently focusing on **Qiskit-based quantum software development**.
 | [quantum-algorithms](https://github.com/quantum-satya/quantum-algorithms) | Step-by-step implementations of Deutsch, Deutsch–Jozsa, Grover, and Simon algorithms |
 | [qiskit-101](https://github.com/quantum-satya/qiskit-101) | Beginner-friendly Qiskit tutorials and exercises |
 | [linear-algebra-notebooks](https://github.com/quantum-satya/linear-algebra-notebooks) | Linear algebra practice notebooks (Gilbert Strang approach) |
+| [Qfinbox_portfolio](https://github.com/quantum-satya/Qfinbox_portfolio)| Transform the portfolio optimization problem into a Binary Quadratic Model (BQM) using D-Wave Quantum Annealing algorithm.|
+
+https://github.com/quantum-satya/Qfinbox_portfolio
 
 > More repos coming soon: Shor, Grover advanced, Quantum AI demos
 
@@ -49,7 +52,7 @@ Currently focusing on **Qiskit-based quantum software development**.
 ---
 
 ## 🌟 Quote
-> “Quantum computing is not just coding; it’s a new way of thinking about computation.”  
+> “Quantum computing is not just coding; it’s a new way of thinking about computation.” 
 > — Satya Pal
 
 ---

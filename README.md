@@ -30,8 +30,6 @@ Currently focusing on **Qiskit-based quantum software development**.
 | [linear-algebra-notebooks](https://github.com/quantum-satya/linear-algebra-notebooks) | Linear algebra practice notebooks (Gilbert Strang approach) |
 | [Qfinbox_portfolio](https://github.com/quantum-satya/Qfinbox_portfolio)| Transform the portfolio optimization problem into a Binary Quadratic Model (BQM) using D-Wave Quantum Annealing algorithm.|
 
-https://github.com/quantum-satya/Qfinbox_portfolio
-
 > More repos coming soon: Shor, Grover advanced, Quantum AI demos
 
 ---

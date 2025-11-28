@@ -1,24 +1,34 @@
-# 👋 Hi, I’m Satya Pal
-**Aspiring Quantum Software Developer | Qiskit | Python | Quantum Algorithms**
+# 👋 Hi, I'm Satya Pal  
+### Quantum Computing Researcher (Entry-Level) | Python | Qiskit | Linear Algebra | AI/Cloud Engineering
+
+I’m a self-driven quantum computing learner with a strong foundation in mathematics, physics, and computer science.  
+I publish structured quantum algorithm notebooks using **Qiskit 2.x** and teach quantum concepts on my YouTube channel **Quantum-Satya**.
 
 ---
 
-## 🎯 About Me
-I am passionate about **quantum computing and quantum algorithms**,  
-and I document my journey step-by-step to teach and contribute to the global quantum community.  
-Currently focusing on **Qiskit-based quantum software development**.
+## 🏅 Certifications
 
-- 🖥️ 12+ years experience in IT, Unix, C/C++, Java, Cloud  
-- ⚡ Learning and implementing **Deutsch, Deutsch–Jozsa, Grover, Simon, Shor**  
-- 📚 Sharing knowledge via GitHub notebooks, tutorials, and YouTube videos  
+### **IBM Quantum**
+- Basics of Quantum Information  
+- Practical Introduction to Quantum-Safe Cryptography  
+
+### **Google Cloud Skills Boost (AI + Cloud + DevOps)**
+- Kubernetes Applications  
+- Secure Google Cloud Network  
+- Load Balancing  
+- App Deployment  
+- Vertex AI Search & Conversation  
+- Prompt Engineering  
+- Text Prompt Engineering Techniques  
 
 ---
 
-## 🛠️ Skills
-- **Quantum Computing:** Qiskit, IBM Quantum Experience  
-- **Programming:** Python, C, C++  
-- **Mathematics:** Linear Algebra, Probability, Quantum Mechanics basics  
-- **Tools:** Jupyter Notebook, Git, GitHub  
+## 🧠 Core Skills
+- **Quantum:** Qiskit 2.x, Statevector, Circuit Design  
+- **Math:** Linear Algebra, Dirac Notation, Complex Numbers  
+- **Programming:** Python, NumPy, Matplotlib, Jupyter  
+- **Cloud & AI:** Google Cloud, Kubernetes, Vertex AI Tools  
+- **Other:** Git, Linux, Teaching, Documentation  
 
 ---
 

@@ -27,7 +27,7 @@ Currently focusing on **Qiskit-based quantum software development**.
 |------------|-------------|
 | [quantum-algorithms](https://github.com/quantum-satya/quantum-algorithms) | Step-by-step implementations of Deutsch, Deutsch–Jozsa, Grover, and Simon algorithms |
 | [qiskit-101](https://github.com/quantum-satya/qiskit-101) | Beginner-friendly Qiskit tutorials and exercises |
-| [linear-algebra-notebooks](https://github.com/quantum-satya/linear-algebra-notebooks) | Linear algebra practice notebooks (Gilbert Strang approach) |
+| [quantum-learning](https://github.com/quantum-satya/quantum-learning) | My self-study journey in Quantum Computing, Quantum Mechanics, and Linear Algebra |
 | [Qfinbox_portfolio](https://github.com/quantum-satya/Qfinbox_portfolio)| Transform the portfolio optimization problem into a Binary Quadratic Model (BQM) using D-Wave Quantum Annealing algorithm.|
 
 > More repos coming soon: Shor, Grover advanced, Quantum AI demos

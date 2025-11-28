@@ -29,6 +29,7 @@ Currently focusing on **Qiskit-based quantum software development**.
 | [qiskit-101](https://github.com/quantum-satya/qiskit-101) | Beginner-friendly Qiskit tutorials and exercises |
 | [quantum-learning](https://github.com/quantum-satya/quantum-learning) | My self-study journey in Quantum Computing, Quantum Mechanics, and Linear Algebra |
 | [Qfinbox_portfolio](https://github.com/quantum-satya/Qfinbox_portfolio)| Transform the portfolio optimization problem into a Binary Quadratic Model (BQM) using D-Wave Quantum Annealing algorithm.|
+| [Solutions_QCforCS](https://github.com/quantum-satya/Solutions_QCforCS) | Solutions and programming drills from the book "Quantum Computing for Computer Scientists" by Noson S. Yanofsky and Mirco A. Mannucci. |
 
 > More repos coming soon: Shor, Grover advanced, Quantum AI demos
 

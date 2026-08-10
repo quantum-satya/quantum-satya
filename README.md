@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Satya Pal  
-### Quantum Computing Researcher (Entry-Level) | Python | Qiskit | Linear Algebra | AI/Cloud Engineering
+### Quantum Computing | AI & Cloud Engineering | Python | Qiskit | Linear Algebra
 
 I’m a self-driven quantum computing learner with a strong foundation in mathematics, physics, and computer science.  
 I publish structured quantum algorithm notebooks using **Qiskit 2.x** and teach quantum concepts on my YouTube channel **Quantum-Satya**.
